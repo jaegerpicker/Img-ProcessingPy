@@ -1,0 +1,2 @@
+MEDIA_ROOT = '/'
+AVATAR_UPLOAD_DIR = 'avatar'
