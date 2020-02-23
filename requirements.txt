@@ -3,6 +3,6 @@ Jinja2==2.7.1
 MarkupSafe==0.18
 Pillow==2.2.1
 Werkzeug==0.9.4
-boto==2.20.1
+boto==2.39.0
 itsdangerous==0.23
 wsgiref==0.1.2
